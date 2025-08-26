@@ -1,0 +1,28 @@
+C:\Users\THINKPAD\OneDrive\Documents\C#\POOEncapsulamieto\staticc\obj\Debug\net9.0\staticc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\THINKPAD\OneDrive\Documents\C#\POOEncapsulamieto\staticc\obj\Debug\net9.0\staticc.AssemblyInfoInputs.cache
+C:\Users\THINKPAD\OneDrive\Documents\C#\POOEncapsulamieto\staticc\obj\Debug\net9.0\staticc.AssemblyInfo.cs
+C:\Users\THINKPAD\OneDrive\Documents\C#\POOEncapsulamieto\staticc\obj\Debug\net9.0\staticc.csproj.CoreCompileInputs.cache
+C:\Users\THINKPAD\OneDrive\Documents\C#\POOEncapsulamieto\staticc\bin\Debug\net9.0\staticc.exe
+C:\Users\THINKPAD\OneDrive\Documents\C#\POOEncapsulamieto\staticc\bin\Debug\net9.0\staticc.deps.json
+C:\Users\THINKPAD\OneDrive\Documents\C#\POOEncapsulamieto\staticc\bin\Debug\net9.0\staticc.runtimeconfig.json
+C:\Users\THINKPAD\OneDrive\Documents\C#\POOEncapsulamieto\staticc\bin\Debug\net9.0\staticc.dll
+C:\Users\THINKPAD\OneDrive\Documents\C#\POOEncapsulamieto\staticc\bin\Debug\net9.0\staticc.pdb
+C:\Users\THINKPAD\OneDrive\Documents\C#\POOEncapsulamieto\staticc\obj\Debug\net9.0\staticc.dll
+C:\Users\THINKPAD\OneDrive\Documents\C#\POOEncapsulamieto\staticc\obj\Debug\net9.0\refint\staticc.dll
+C:\Users\THINKPAD\OneDrive\Documents\C#\POOEncapsulamieto\staticc\obj\Debug\net9.0\staticc.pdb
+C:\Users\THINKPAD\OneDrive\Documents\C#\POOEncapsulamieto\staticc\obj\Debug\net9.0\staticc.genruntimeconfig.cache
+C:\Users\THINKPAD\OneDrive\Documents\C#\POOEncapsulamieto\staticc\obj\Debug\net9.0\ref\staticc.dll
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\POOEncapsulamieto\staticc\bin\Debug\net9.0\staticc.exe
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\POOEncapsulamieto\staticc\bin\Debug\net9.0\staticc.deps.json
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\POOEncapsulamieto\staticc\bin\Debug\net9.0\staticc.runtimeconfig.json
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\POOEncapsulamieto\staticc\bin\Debug\net9.0\staticc.dll
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\POOEncapsulamieto\staticc\bin\Debug\net9.0\staticc.pdb
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\POOEncapsulamieto\staticc\obj\Debug\net9.0\staticc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\POOEncapsulamieto\staticc\obj\Debug\net9.0\staticc.AssemblyInfoInputs.cache
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\POOEncapsulamieto\staticc\obj\Debug\net9.0\staticc.AssemblyInfo.cs
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\POOEncapsulamieto\staticc\obj\Debug\net9.0\staticc.csproj.CoreCompileInputs.cache
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\POOEncapsulamieto\staticc\obj\Debug\net9.0\staticc.dll
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\POOEncapsulamieto\staticc\obj\Debug\net9.0\refint\staticc.dll
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\POOEncapsulamieto\staticc\obj\Debug\net9.0\staticc.pdb
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\POOEncapsulamieto\staticc\obj\Debug\net9.0\staticc.genruntimeconfig.cache
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\POOEncapsulamieto\staticc\obj\Debug\net9.0\ref\staticc.dll

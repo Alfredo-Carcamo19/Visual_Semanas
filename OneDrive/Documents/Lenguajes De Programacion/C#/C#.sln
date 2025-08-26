@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exepciones", "Exepciones", "{CE3E375D-5AE5-F2E2-201E-D6A09B8C60F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exepcions", "Exepciones\Exepcions\Exepcions.csproj", "{5B016F2E-2646-E1D2-66FC-9E4875699050}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B016F2E-2646-E1D2-66FC-9E4875699050}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B016F2E-2646-E1D2-66FC-9E4875699050}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B016F2E-2646-E1D2-66FC-9E4875699050}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B016F2E-2646-E1D2-66FC-9E4875699050}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{5B016F2E-2646-E1D2-66FC-9E4875699050} = {CE3E375D-5AE5-F2E2-201E-D6A09B8C60F7}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31C28247-F54D-470F-B05D-7DAD05A682D6}
+	EndGlobalSection
+EndGlobal

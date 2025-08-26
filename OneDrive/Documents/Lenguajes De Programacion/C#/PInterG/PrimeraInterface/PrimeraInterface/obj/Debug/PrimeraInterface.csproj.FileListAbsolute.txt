@@ -1,0 +1,15 @@
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\InterfacesG\PrimeraInterface\PrimeraInterface\bin\Debug\PrimeraInterface.exe.config
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\InterfacesG\PrimeraInterface\PrimeraInterface\bin\Debug\PrimeraInterface.exe
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\InterfacesG\PrimeraInterface\PrimeraInterface\bin\Debug\PrimeraInterface.pdb
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\InterfacesG\PrimeraInterface\PrimeraInterface\obj\Debug\PrimeraInterface.csproj.AssemblyReference.cache
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\InterfacesG\PrimeraInterface\PrimeraInterface\obj\Debug\MainWindow.g.cs
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\InterfacesG\PrimeraInterface\PrimeraInterface\obj\Debug\App.g.cs
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\InterfacesG\PrimeraInterface\PrimeraInterface\obj\Debug\PrimeraInterface_MarkupCompile.cache
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\InterfacesG\PrimeraInterface\PrimeraInterface\obj\Debug\PrimeraInterface_MarkupCompile.lref
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\InterfacesG\PrimeraInterface\PrimeraInterface\obj\Debug\MainWindow.baml
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\InterfacesG\PrimeraInterface\PrimeraInterface\obj\Debug\PrimeraInterface.g.resources
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\InterfacesG\PrimeraInterface\PrimeraInterface\obj\Debug\PrimeraInterface.Properties.Resources.resources
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\InterfacesG\PrimeraInterface\PrimeraInterface\obj\Debug\PrimeraInterface.csproj.GenerateResource.cache
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\InterfacesG\PrimeraInterface\PrimeraInterface\obj\Debug\PrimeraInterface.csproj.CoreCompileInputs.cache
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\InterfacesG\PrimeraInterface\PrimeraInterface\obj\Debug\PrimeraInterface.exe
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\InterfacesG\PrimeraInterface\PrimeraInterface\obj\Debug\PrimeraInterface.pdb

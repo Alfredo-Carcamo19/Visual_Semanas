@@ -1,0 +1,14 @@
+C:\Users\THINKPAD\OneDrive\Documents\C#\POOHerencia\herenciaIV\bin\Debug\net9.0\herenciaIV.exe
+C:\Users\THINKPAD\OneDrive\Documents\C#\POOHerencia\herenciaIV\bin\Debug\net9.0\herenciaIV.deps.json
+C:\Users\THINKPAD\OneDrive\Documents\C#\POOHerencia\herenciaIV\bin\Debug\net9.0\herenciaIV.runtimeconfig.json
+C:\Users\THINKPAD\OneDrive\Documents\C#\POOHerencia\herenciaIV\bin\Debug\net9.0\herenciaIV.dll
+C:\Users\THINKPAD\OneDrive\Documents\C#\POOHerencia\herenciaIV\bin\Debug\net9.0\herenciaIV.pdb
+C:\Users\THINKPAD\OneDrive\Documents\C#\POOHerencia\herenciaIV\obj\Debug\net9.0\herenciaIV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\THINKPAD\OneDrive\Documents\C#\POOHerencia\herenciaIV\obj\Debug\net9.0\herenciaIV.AssemblyInfoInputs.cache
+C:\Users\THINKPAD\OneDrive\Documents\C#\POOHerencia\herenciaIV\obj\Debug\net9.0\herenciaIV.AssemblyInfo.cs
+C:\Users\THINKPAD\OneDrive\Documents\C#\POOHerencia\herenciaIV\obj\Debug\net9.0\herenciaIV.csproj.CoreCompileInputs.cache
+C:\Users\THINKPAD\OneDrive\Documents\C#\POOHerencia\herenciaIV\obj\Debug\net9.0\herenciaIV.dll
+C:\Users\THINKPAD\OneDrive\Documents\C#\POOHerencia\herenciaIV\obj\Debug\net9.0\refint\herenciaIV.dll
+C:\Users\THINKPAD\OneDrive\Documents\C#\POOHerencia\herenciaIV\obj\Debug\net9.0\herenciaIV.pdb
+C:\Users\THINKPAD\OneDrive\Documents\C#\POOHerencia\herenciaIV\obj\Debug\net9.0\herenciaIV.genruntimeconfig.cache
+C:\Users\THINKPAD\OneDrive\Documents\C#\POOHerencia\herenciaIV\obj\Debug\net9.0\ref\herenciaIV.dll

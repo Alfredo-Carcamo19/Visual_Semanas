@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\PrimeraInterface\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D7AE4E-F498-486B-B4D5-8CA211BD6183}|PrimeraInterface\\PrimeraInterface.csproj|c:\\users\\thinkpad\\onedrive\\documents\\lenguajes de programacion\\c#\\interfacesg\\primerainterface\\primerainterface\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C4D7AE4E-F498-486B-B4D5-8CA211BD6183}|PrimeraInterface\\PrimeraInterface.csproj|solutionrelative:primerainterface\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D7AE4E-F498-486B-B4D5-8CA211BD6183}|PrimeraInterface\\PrimeraInterface.csproj|C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\PrimeraInterface\\primerainterface\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4D7AE4E-F498-486B-B4D5-8CA211BD6183}|PrimeraInterface\\PrimeraInterface.csproj|solutionrelative:primerainterface\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 165,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\PrimeraInterface\\PrimeraInterface\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "PrimeraInterface\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\PrimeraInterface\\PrimeraInterface\\MainWindow.xaml",
+              "RelativeToolTip": "PrimeraInterface\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-02T02:12:40.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\PrimeraInterface\\PrimeraInterface\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "PrimeraInterface\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\PrimeraInterface\\PrimeraInterface\\MainWindow.xaml.cs",
+              "RelativeToolTip": "PrimeraInterface\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T02:12:40.082Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

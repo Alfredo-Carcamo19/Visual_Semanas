@@ -1,0 +1,14 @@
+C:\Users\THINKPAD\OneDrive\Documents\C#\POOHerencia\herenciaII\obj\Debug\net9.0\herenciaII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\THINKPAD\OneDrive\Documents\C#\POOHerencia\herenciaII\obj\Debug\net9.0\herenciaII.AssemblyInfoInputs.cache
+C:\Users\THINKPAD\OneDrive\Documents\C#\POOHerencia\herenciaII\obj\Debug\net9.0\herenciaII.AssemblyInfo.cs
+C:\Users\THINKPAD\OneDrive\Documents\C#\POOHerencia\herenciaII\obj\Debug\net9.0\herenciaII.csproj.CoreCompileInputs.cache
+C:\Users\THINKPAD\OneDrive\Documents\C#\POOHerencia\herenciaII\bin\Debug\net9.0\herenciaII.exe
+C:\Users\THINKPAD\OneDrive\Documents\C#\POOHerencia\herenciaII\bin\Debug\net9.0\herenciaII.deps.json
+C:\Users\THINKPAD\OneDrive\Documents\C#\POOHerencia\herenciaII\bin\Debug\net9.0\herenciaII.runtimeconfig.json
+C:\Users\THINKPAD\OneDrive\Documents\C#\POOHerencia\herenciaII\bin\Debug\net9.0\herenciaII.dll
+C:\Users\THINKPAD\OneDrive\Documents\C#\POOHerencia\herenciaII\bin\Debug\net9.0\herenciaII.pdb
+C:\Users\THINKPAD\OneDrive\Documents\C#\POOHerencia\herenciaII\obj\Debug\net9.0\herenciaII.dll
+C:\Users\THINKPAD\OneDrive\Documents\C#\POOHerencia\herenciaII\obj\Debug\net9.0\refint\herenciaII.dll
+C:\Users\THINKPAD\OneDrive\Documents\C#\POOHerencia\herenciaII\obj\Debug\net9.0\herenciaII.pdb
+C:\Users\THINKPAD\OneDrive\Documents\C#\POOHerencia\herenciaII\obj\Debug\net9.0\herenciaII.genruntimeconfig.cache
+C:\Users\THINKPAD\OneDrive\Documents\C#\POOHerencia\herenciaII\obj\Debug\net9.0\ref\herenciaII.dll

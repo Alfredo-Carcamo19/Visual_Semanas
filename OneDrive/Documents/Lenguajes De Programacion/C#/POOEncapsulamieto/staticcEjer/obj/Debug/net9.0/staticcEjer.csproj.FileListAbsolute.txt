@@ -1,0 +1,14 @@
+C:\Users\THINKPAD\OneDrive\Documents\C#\POOEncapsulamieto\staticcEjer\obj\Debug\net9.0\staticcEjer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\THINKPAD\OneDrive\Documents\C#\POOEncapsulamieto\staticcEjer\obj\Debug\net9.0\staticcEjer.AssemblyInfoInputs.cache
+C:\Users\THINKPAD\OneDrive\Documents\C#\POOEncapsulamieto\staticcEjer\obj\Debug\net9.0\staticcEjer.AssemblyInfo.cs
+C:\Users\THINKPAD\OneDrive\Documents\C#\POOEncapsulamieto\staticcEjer\obj\Debug\net9.0\staticcEjer.csproj.CoreCompileInputs.cache
+C:\Users\THINKPAD\OneDrive\Documents\C#\POOEncapsulamieto\staticcEjer\bin\Debug\net9.0\staticcEjer.exe
+C:\Users\THINKPAD\OneDrive\Documents\C#\POOEncapsulamieto\staticcEjer\bin\Debug\net9.0\staticcEjer.deps.json
+C:\Users\THINKPAD\OneDrive\Documents\C#\POOEncapsulamieto\staticcEjer\bin\Debug\net9.0\staticcEjer.runtimeconfig.json
+C:\Users\THINKPAD\OneDrive\Documents\C#\POOEncapsulamieto\staticcEjer\bin\Debug\net9.0\staticcEjer.dll
+C:\Users\THINKPAD\OneDrive\Documents\C#\POOEncapsulamieto\staticcEjer\bin\Debug\net9.0\staticcEjer.pdb
+C:\Users\THINKPAD\OneDrive\Documents\C#\POOEncapsulamieto\staticcEjer\obj\Debug\net9.0\staticcEjer.dll
+C:\Users\THINKPAD\OneDrive\Documents\C#\POOEncapsulamieto\staticcEjer\obj\Debug\net9.0\refint\staticcEjer.dll
+C:\Users\THINKPAD\OneDrive\Documents\C#\POOEncapsulamieto\staticcEjer\obj\Debug\net9.0\staticcEjer.pdb
+C:\Users\THINKPAD\OneDrive\Documents\C#\POOEncapsulamieto\staticcEjer\obj\Debug\net9.0\staticcEjer.genruntimeconfig.cache
+C:\Users\THINKPAD\OneDrive\Documents\C#\POOEncapsulamieto\staticcEjer\obj\Debug\net9.0\ref\staticcEjer.dll

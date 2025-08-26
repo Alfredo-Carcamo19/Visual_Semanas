@@ -1,0 +1,14 @@
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\Delegados_y_Lambdas\ExLambdas\bin\Debug\net9.0\ExLambdas.exe
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\Delegados_y_Lambdas\ExLambdas\bin\Debug\net9.0\ExLambdas.deps.json
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\Delegados_y_Lambdas\ExLambdas\bin\Debug\net9.0\ExLambdas.runtimeconfig.json
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\Delegados_y_Lambdas\ExLambdas\bin\Debug\net9.0\ExLambdas.dll
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\Delegados_y_Lambdas\ExLambdas\bin\Debug\net9.0\ExLambdas.pdb
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\Delegados_y_Lambdas\ExLambdas\obj\Debug\net9.0\ExLambdas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\Delegados_y_Lambdas\ExLambdas\obj\Debug\net9.0\ExLambdas.AssemblyInfoInputs.cache
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\Delegados_y_Lambdas\ExLambdas\obj\Debug\net9.0\ExLambdas.AssemblyInfo.cs
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\Delegados_y_Lambdas\ExLambdas\obj\Debug\net9.0\ExLambdas.csproj.CoreCompileInputs.cache
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\Delegados_y_Lambdas\ExLambdas\obj\Debug\net9.0\ExLambdas.dll
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\Delegados_y_Lambdas\ExLambdas\obj\Debug\net9.0\refint\ExLambdas.dll
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\Delegados_y_Lambdas\ExLambdas\obj\Debug\net9.0\ExLambdas.pdb
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\Delegados_y_Lambdas\ExLambdas\obj\Debug\net9.0\ExLambdas.genruntimeconfig.cache
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\Delegados_y_Lambdas\ExLambdas\obj\Debug\net9.0\ref\ExLambdas.dll

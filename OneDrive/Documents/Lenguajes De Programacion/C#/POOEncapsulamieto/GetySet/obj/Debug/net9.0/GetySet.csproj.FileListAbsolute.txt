@@ -1,0 +1,28 @@
+C:\Users\THINKPAD\OneDrive\Documents\C#\POOEncapsulamieto\GetySet\bin\Debug\net9.0\GetySet.exe
+C:\Users\THINKPAD\OneDrive\Documents\C#\POOEncapsulamieto\GetySet\bin\Debug\net9.0\GetySet.deps.json
+C:\Users\THINKPAD\OneDrive\Documents\C#\POOEncapsulamieto\GetySet\bin\Debug\net9.0\GetySet.runtimeconfig.json
+C:\Users\THINKPAD\OneDrive\Documents\C#\POOEncapsulamieto\GetySet\bin\Debug\net9.0\GetySet.dll
+C:\Users\THINKPAD\OneDrive\Documents\C#\POOEncapsulamieto\GetySet\bin\Debug\net9.0\GetySet.pdb
+C:\Users\THINKPAD\OneDrive\Documents\C#\POOEncapsulamieto\GetySet\obj\Debug\net9.0\GetySet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\THINKPAD\OneDrive\Documents\C#\POOEncapsulamieto\GetySet\obj\Debug\net9.0\GetySet.AssemblyInfoInputs.cache
+C:\Users\THINKPAD\OneDrive\Documents\C#\POOEncapsulamieto\GetySet\obj\Debug\net9.0\GetySet.AssemblyInfo.cs
+C:\Users\THINKPAD\OneDrive\Documents\C#\POOEncapsulamieto\GetySet\obj\Debug\net9.0\GetySet.csproj.CoreCompileInputs.cache
+C:\Users\THINKPAD\OneDrive\Documents\C#\POOEncapsulamieto\GetySet\obj\Debug\net9.0\GetySet.dll
+C:\Users\THINKPAD\OneDrive\Documents\C#\POOEncapsulamieto\GetySet\obj\Debug\net9.0\refint\GetySet.dll
+C:\Users\THINKPAD\OneDrive\Documents\C#\POOEncapsulamieto\GetySet\obj\Debug\net9.0\GetySet.pdb
+C:\Users\THINKPAD\OneDrive\Documents\C#\POOEncapsulamieto\GetySet\obj\Debug\net9.0\GetySet.genruntimeconfig.cache
+C:\Users\THINKPAD\OneDrive\Documents\C#\POOEncapsulamieto\GetySet\obj\Debug\net9.0\ref\GetySet.dll
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\POOEncapsulamieto\GetySet\bin\Debug\net9.0\GetySet.exe
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\POOEncapsulamieto\GetySet\bin\Debug\net9.0\GetySet.deps.json
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\POOEncapsulamieto\GetySet\bin\Debug\net9.0\GetySet.runtimeconfig.json
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\POOEncapsulamieto\GetySet\bin\Debug\net9.0\GetySet.dll
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\POOEncapsulamieto\GetySet\bin\Debug\net9.0\GetySet.pdb
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\POOEncapsulamieto\GetySet\obj\Debug\net9.0\GetySet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\POOEncapsulamieto\GetySet\obj\Debug\net9.0\GetySet.AssemblyInfoInputs.cache
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\POOEncapsulamieto\GetySet\obj\Debug\net9.0\GetySet.AssemblyInfo.cs
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\POOEncapsulamieto\GetySet\obj\Debug\net9.0\GetySet.csproj.CoreCompileInputs.cache
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\POOEncapsulamieto\GetySet\obj\Debug\net9.0\GetySet.dll
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\POOEncapsulamieto\GetySet\obj\Debug\net9.0\refint\GetySet.dll
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\POOEncapsulamieto\GetySet\obj\Debug\net9.0\GetySet.pdb
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\POOEncapsulamieto\GetySet\obj\Debug\net9.0\GetySet.genruntimeconfig.cache
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\POOEncapsulamieto\GetySet\obj\Debug\net9.0\ref\GetySet.dll

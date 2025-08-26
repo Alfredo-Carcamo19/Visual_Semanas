@@ -1,0 +1,14 @@
+C:\Users\THINKPAD\OneDrive\Documents\C#\Delegados_y_Lambdas\Delegatess\obj\Debug\net9.0\Delegatess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\THINKPAD\OneDrive\Documents\C#\Delegados_y_Lambdas\Delegatess\obj\Debug\net9.0\Delegatess.AssemblyInfoInputs.cache
+C:\Users\THINKPAD\OneDrive\Documents\C#\Delegados_y_Lambdas\Delegatess\obj\Debug\net9.0\Delegatess.AssemblyInfo.cs
+C:\Users\THINKPAD\OneDrive\Documents\C#\Delegados_y_Lambdas\Delegatess\obj\Debug\net9.0\Delegatess.csproj.CoreCompileInputs.cache
+C:\Users\THINKPAD\OneDrive\Documents\C#\Delegados_y_Lambdas\Delegatess\bin\Debug\net9.0\Delegatess.exe
+C:\Users\THINKPAD\OneDrive\Documents\C#\Delegados_y_Lambdas\Delegatess\bin\Debug\net9.0\Delegatess.deps.json
+C:\Users\THINKPAD\OneDrive\Documents\C#\Delegados_y_Lambdas\Delegatess\bin\Debug\net9.0\Delegatess.runtimeconfig.json
+C:\Users\THINKPAD\OneDrive\Documents\C#\Delegados_y_Lambdas\Delegatess\bin\Debug\net9.0\Delegatess.dll
+C:\Users\THINKPAD\OneDrive\Documents\C#\Delegados_y_Lambdas\Delegatess\bin\Debug\net9.0\Delegatess.pdb
+C:\Users\THINKPAD\OneDrive\Documents\C#\Delegados_y_Lambdas\Delegatess\obj\Debug\net9.0\Delegatess.dll
+C:\Users\THINKPAD\OneDrive\Documents\C#\Delegados_y_Lambdas\Delegatess\obj\Debug\net9.0\refint\Delegatess.dll
+C:\Users\THINKPAD\OneDrive\Documents\C#\Delegados_y_Lambdas\Delegatess\obj\Debug\net9.0\Delegatess.pdb
+C:\Users\THINKPAD\OneDrive\Documents\C#\Delegados_y_Lambdas\Delegatess\obj\Debug\net9.0\Delegatess.genruntimeconfig.cache
+C:\Users\THINKPAD\OneDrive\Documents\C#\Delegados_y_Lambdas\Delegatess\obj\Debug\net9.0\ref\Delegatess.dll

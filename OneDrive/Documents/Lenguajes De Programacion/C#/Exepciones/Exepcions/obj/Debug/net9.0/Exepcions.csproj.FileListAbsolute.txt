@@ -1,0 +1,14 @@
+C:\Users\THINKPAD\OneDrive\Documents\C#\Exepciones\Exepcions\bin\Debug\net9.0\Exepcions.exe
+C:\Users\THINKPAD\OneDrive\Documents\C#\Exepciones\Exepcions\bin\Debug\net9.0\Exepcions.deps.json
+C:\Users\THINKPAD\OneDrive\Documents\C#\Exepciones\Exepcions\bin\Debug\net9.0\Exepcions.runtimeconfig.json
+C:\Users\THINKPAD\OneDrive\Documents\C#\Exepciones\Exepcions\bin\Debug\net9.0\Exepcions.dll
+C:\Users\THINKPAD\OneDrive\Documents\C#\Exepciones\Exepcions\bin\Debug\net9.0\Exepcions.pdb
+C:\Users\THINKPAD\OneDrive\Documents\C#\Exepciones\Exepcions\obj\Debug\net9.0\Exepcions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\THINKPAD\OneDrive\Documents\C#\Exepciones\Exepcions\obj\Debug\net9.0\Exepcions.AssemblyInfoInputs.cache
+C:\Users\THINKPAD\OneDrive\Documents\C#\Exepciones\Exepcions\obj\Debug\net9.0\Exepcions.AssemblyInfo.cs
+C:\Users\THINKPAD\OneDrive\Documents\C#\Exepciones\Exepcions\obj\Debug\net9.0\Exepcions.csproj.CoreCompileInputs.cache
+C:\Users\THINKPAD\OneDrive\Documents\C#\Exepciones\Exepcions\obj\Debug\net9.0\Exepcions.dll
+C:\Users\THINKPAD\OneDrive\Documents\C#\Exepciones\Exepcions\obj\Debug\net9.0\refint\Exepcions.dll
+C:\Users\THINKPAD\OneDrive\Documents\C#\Exepciones\Exepcions\obj\Debug\net9.0\Exepcions.pdb
+C:\Users\THINKPAD\OneDrive\Documents\C#\Exepciones\Exepcions\obj\Debug\net9.0\Exepcions.genruntimeconfig.cache
+C:\Users\THINKPAD\OneDrive\Documents\C#\Exepciones\Exepcions\obj\Debug\net9.0\ref\Exepcions.dll
