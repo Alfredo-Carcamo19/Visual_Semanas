@@ -9,3 +9,14 @@ C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\InterfacesG\Ca
 C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\InterfacesG\Calculadora\Calculadora\obj\Debug\Calculadora.exe
 C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\InterfacesG\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
 C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\InterfacesG\Calculadora\Calculadora\obj\Debug\Calculadora.exe.config
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\InterfacesG\semana3\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\InterfacesG\semana3\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\InterfacesG\semana3\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\InterfacesG\semana3\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\InterfacesG\semana3\Calculadora\Calculadora\obj\Debug\Calculadora.exe.config
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\InterfacesG\semana3\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\InterfacesG\semana3\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\InterfacesG\semana3\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\InterfacesG\semana3\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\InterfacesG\semana3\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\InterfacesG\semana3\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
