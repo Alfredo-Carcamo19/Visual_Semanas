@@ -1,0 +1,11 @@
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\InterfacesG\LoginApp\LoginApp\bin\Debug\LoginApp.exe.config
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\InterfacesG\LoginApp\LoginApp\bin\Debug\LoginApp.exe
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\InterfacesG\LoginApp\LoginApp\bin\Debug\LoginApp.pdb
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\InterfacesG\LoginApp\LoginApp\obj\Debug\LoginApp.csproj.AssemblyReference.cache
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\InterfacesG\LoginApp\LoginApp\obj\Debug\LoginApp.Form1.resources
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\InterfacesG\LoginApp\LoginApp\obj\Debug\LoginApp.Properties.Resources.resources
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\InterfacesG\LoginApp\LoginApp\obj\Debug\LoginApp.csproj.GenerateResource.cache
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\InterfacesG\LoginApp\LoginApp\obj\Debug\LoginApp.csproj.CoreCompileInputs.cache
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\InterfacesG\LoginApp\LoginApp\obj\Debug\LoginApp.exe
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\InterfacesG\LoginApp\LoginApp\obj\Debug\LoginApp.pdb
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\InterfacesG\LoginApp\LoginApp\obj\Debug\LoginApp.exe.config
